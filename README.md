@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panos</h1>
 <h3 align="center">I am a person with a passion for solving complex problemss.</h3>
 
-- 📄 Know about my experiences [panagiotisk.com](www.panagiotisk.com)
+- 📄 Know about my experiences [panagiotisk.com](https://www.panagiotisk.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
